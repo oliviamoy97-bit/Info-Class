@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: Lavender;  
+}
+
+.option {
+  padding: 10px;
+  background-color: RoyalBlue;
+  color: white;     
+}
+
+.option:hover {background-color: MediumSlateBlue;}
+
+#score {
+  margin: 20px;
+  font-size: 1.2em;
+}

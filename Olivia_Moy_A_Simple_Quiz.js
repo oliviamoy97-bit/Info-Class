@@ -17,7 +17,7 @@ const questions = [
   {
     question: "What is the best flavor of jelly for a PB&J?",
     options: ["Strawberry", "Blueberry", "Raspberry", "Grape", "Apricot"],
-    answer: 4
+    answer: 3
   }
 ];
 
